@@ -74,8 +74,3 @@ git clone https://github.com/galbinasuana/Image-Compression-SVD.git
 
 **Compression with 10% singular values**  
 ![Color Compression 10%](images/color_10.png)
-
-## License
-
-This project is open-source and licensed under the MIT License.
-
